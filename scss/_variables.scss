@@ -1,0 +1,19 @@
+// Font Settings
+
+@include font-face("Old London", 
+		font-files("old_london/OldLondon.ttf",
+					"old_london/Olondon_.otf"));
+ 
+// font-setting
+$fs: 1rem;
+$lh: $fs*1.5;
+
+$ff-sans: "Helvetica";
+$ff-goth: "Old London";
+
+
+// COLOR SETTINGS
+
+// brand color  
+// i ndeed some bordo 
+

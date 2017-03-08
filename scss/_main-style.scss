@@ -1,0 +1,15 @@
+
+
+html{
+	font-size: 16px;
+}
+body{
+	font-size: $fs;
+	line-height: $lh;
+	font-family: $ff-sans;
+}
+h1{
+	font-size: 5rem;
+	line-height: 5rem;
+	font-family: "Old London";
+}
